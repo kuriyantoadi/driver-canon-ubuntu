@@ -3,8 +3,8 @@ Program untuk menginstall program driver printer canon untuk ubuntu. Program han
 
 Untuk menginstall anda bisa masukan perintah berikut di terminal<br>
 <code>git clone https://github.com/kuriyantoadi/driver-canon-ubuntu.git</code><br>
-cd driver-canon-ubuntu<br>
-</code><br>sh install.sh<br>
+<code>cd driver-canon-ubuntu</code><br>
+<code>sh install.sh<br></code>
 
 Atau 
 

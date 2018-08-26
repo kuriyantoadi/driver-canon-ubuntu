@@ -8,6 +8,4 @@ Untuk menginstall anda bisa masukan perintah berikut di terminal<br>
 
 Atau 
 
-Anda download dan install dengan perintah sh install.sh di folder driver-canon-ubuntu
-
-Jika ada bug di program silahkan laporkan ke admin di github atau pun ke telegram @kuriyanto
+Anda download dan install dengan perintah sh install.sh di folder driver-canon-ubuntu. Jika ada bug di program silahkan laporkan ke admin di github atau pun ke telegram <code>@kuriyanto</code>
